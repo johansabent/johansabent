@@ -4,15 +4,15 @@ AI Systems Architect & Full-Stack Developer based in Brazil.
 
 Orchestrating multi-agent AI systems, LLM-powered products, and automation workflows.
 
-[![LinkedIn](https://img.shields.io/badge/-Johan%20Pigari-01696f?style=flat-square&labelColor=01696f&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johansabent)
-[![Portfolio](https://img.shields.io/badge/-johanpigari.me-01696f?style=flat-square&labelColor=01696f&logo=Firefox&logoColor=white)](https://johanpigari.me)
-[![Email](https://img.shields.io/badge/-johansabent@proton.me-01696f?style=flat-square&labelColor=01696f&logo=Proton&logoColor=white)](mailto:johansabent@proton.me)
+[![LinkedIn](https://img.shields.io/badge/-Johan%20Pigari-01696f?style=flat-square&labelColor=01696f&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johanpigari)
+[![Portfolio](https://img.shields.io/badge/-johanpigari.me-01696f?style=flat-square&labelColor=01696f&logo=googlechrome&logoColor=white)](https://johanpigari.me)
+[![Email](https://img.shields.io/badge/-johansabent@proton.me-01696f?style=flat-square&labelColor=01696f&logo=protonmail&logoColor=white)](mailto:johansabent@proton.me)
 
 ---
 
-Entusiasta de tudo que tem bits desde os 90's, automacao e workflows integrados. Foco em orquestrar agentes que trabalham juntos para resolver problemas reais — desde arquiteturas multi-LLM ate pipelines de automacao com ferramentas modernas.
+Construindo sistemas que pensam, decidem e operam — desde arquiteturas multi-agente ate pipelines de automacao com LLMs. Trabalho na intersecao entre produto, engenharia e IA aplicada.
 
-Apaixonado por tecnologia, historia, ciências e jogos. Quando não estou com meu debatendo com meu Openclaw, estou explorando o universo de Star Citizen ou otimizando uma fabrica no Factorio.
+Quando nao estou no terminal, estou explorando o universo de Star Citizen ou otimizando uma fabrica no Factorio.
 
 > "Systems that think, build, and iterate — that's the future I'm engineering today."
 
@@ -29,4 +29,12 @@ Apaixonado por tecnologia, historia, ciências e jogos. Quando não estou com me
 
 ---
 
-*Brazil — open to collaborations and challenging projects.*
+**Active projects**
+
+- **[Locfy](https://github.com/johansabent)** — Multi-agent AI system for business process automation
+- **[OrgCommand](https://github.com/johansabent)** — Internal agent orchestration layer
+- **[Ticto](https://github.com/johansabent)** — Marketing and infoproduct platform with AI integrations
+
+---
+
+*Parana, Brazil — open to collaborations and challenging projects.*
