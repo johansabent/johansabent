@@ -10,7 +10,7 @@ Orchestrating multi-agent AI systems, LLM-powered products, and automation workf
 
 ---
 
-Entusiasta de tudo que tem bits desde os 90's, automacao e sistemas distribuidos. Foco em orquestrar agentes que trabalham juntos para resolver problemas reais — desde arquiteturas multi-LLM ate pipelines de automacao com ferramentas modernas.
+Entusiasta de tudo que tem bits desde os 90's, automacao e workflows integrados. Foco em orquestrar agentes que trabalham juntos para resolver problemas reais — desde arquiteturas multi-LLM ate pipelines de automacao com ferramentas modernas.
 
 Apaixonado por tecnologia, historia, ciências e jogos. Quando não estou com meu debatendo com meu Openclaw, estou explorando o universo de Star Citizen ou otimizando uma fabrica no Factorio.
 
