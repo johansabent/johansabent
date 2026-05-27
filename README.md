@@ -6,7 +6,7 @@ Orchestrating multi-agent AI systems, LLM-powered products, and automation workf
 
 [![LinkedIn](https://img.shields.io/badge/-Johan%20Pigari-01696f?style=flat-square&labelColor=01696f&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johanpigari)
 [![Portfolio](https://img.shields.io/badge/-johanpigari.me-01696f?style=flat-square&labelColor=01696f&logo=googlechrome&logoColor=white)](https://johanpigari.me)
-[![Email](https://img.shields.io/badge/-johansabent@proton.me-01696f?style=flat-square&labelColor=01696f&logo=protonmail&logoColor=white)](mailto:johansabent@proton.me)
+[![Email](https://img.shields.io/badge/-contato@work.johanpigari.me-01696f?style=flat-square&labelColor=01696f&logo=protonmail&logoColor=white)](mailto:contato@work.johanpigari.me)
 
 ---
 
