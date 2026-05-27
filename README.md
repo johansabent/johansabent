@@ -10,9 +10,9 @@ Orchestrating multi-agent AI systems, LLM-powered products, and automation workf
 
 ---
 
-Entusiasta de IA, automacao e sistemas distribuidos. Foco em orquestrar agentes que trabalham juntos para resolver problemas reais — desde arquiteturas multi-LLM ate pipelines de automacao com ferramentas modernas.
+Entusiasta de tudo que tem bits desde os 90's, automacao e sistemas distribuidos. Foco em orquestrar agentes que trabalham juntos para resolver problemas reais — desde arquiteturas multi-LLM ate pipelines de automacao com ferramentas modernas.
 
-Apaixonado por tecnologia, geopolitica e astronomia. Quando nao estou codando, estou explorando o universo de Star Citizen ou otimizando uma fabrica no Factorio.
+Apaixonado por tecnologia, historia, ciências e jogos. Quando não estou com meu debatendo com meu Openclaw, estou explorando o universo de Star Citizen ou otimizando uma fabrica no Factorio.
 
 > "Systems that think, build, and iterate — that's the future I'm engineering today."
 
@@ -29,12 +29,4 @@ Apaixonado por tecnologia, geopolitica e astronomia. Quando nao estou codando, e
 
 ---
 
-**Active projects**
-
-- **Locfy** — Multi-agent AI system for business process automation
-- **OrgCommand** — Internal AI agent orchestration solution
-- **Ticto** — Marketing & infoproduct platform with AI integrations
-
----
-
-*Parana, Brasil — open to collaborations and challenging projects.*
+*Brazil — open to collaborations and challenging projects.*
